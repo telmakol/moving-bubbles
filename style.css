@@ -7,7 +7,7 @@
   left: 0;
   width: 100px;
   height: 100px;
-  background-color: hotpink;
+  background-color: rgb(105, 110, 255);
   border-radius: 100%;
   transition: all 2s;
 }
